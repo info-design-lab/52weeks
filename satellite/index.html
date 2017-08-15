@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- India State Map  -->
+    <title>Indian Satellite Visualization</title>
+
+    <!--  Scripts  -->
+    <script type="text/javascript" src="scripts/d3.v4.js"></script>
+    <script src="scripts/queue.js"></script>
+    <script type="text/javascript" src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/bootstrap/bootstrap.min.js"></script>
+    <link href="scripts/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+  </head>
+
+<body>
+  <div>
+    <div class='row' class="footer">
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <h2><b>Indian Satellites</b></h2>
+        <h4>Arihant Parsoya</h4>
+        <p>
+          <p>India has launched total of 100 satellites in space since 1975. Two satellites were sent on Extra-terrestrial missions and seven launches were failed. Here is the visualization exploring various characteristics of satellites from 1975 till August 2017:</p>
+        </p>
+        <br />
+        <br />
+        <br />
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+    <div class='row'>
+      <div class="col-md-1">
+
+      </div>
+      <div class="col-md-9">
+        <div id="viz">    </div>
+      </div>
+      <div class="col-md-2">
+        <div>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+        </div>
+        <form>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Launch Mass(kg)" checked="checked">
+              Launch Mass (kg)
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Onboard Power(W)">
+              Onboard Power (W)
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Periapsis(km)">
+              Periapsis (km)
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Apoapsis(km)">
+              Apoapsis (km)
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Period(min)">
+              Period (min)
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Inclination(degrees)">
+              Inclination (degrees)
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Longitude(E)">
+              Longitude (degrees) East
+            </label>
+          </div>
+          <div>
+            <label class="noselect">
+              <input autocomplete="off" name="year" type="radio" class="radio" onclick="updateviz(this)" value="Eccentricity">
+              Eccentricity
+            </label>
+          </div>
+        </form>
+        <h4 style="color: white">Legend</h4>
+        <div id="legend"></div>
+      </div>
+    </div>
+
+    <div class="row" id="footer">
+      <div class="col-md-3">
+      </div>
+      <div class="col-md-6">
+        <h3>About the data</h3>
+        <p>
+          The analysis and visualization is made from datasets of <a href="https://en.wikipedia.org/wiki/List_of_Indian_satellites">Wikipedia</a>.
+          <br>
+          <br>Created at: <a href="http://info-design-lab.github.io" target="_blank">Information Design Lab IDC IIT Bombay</a>
+          <br>
+          <br>Published on: 15 August 2017
+        </p>
+        <div id="disqus_thread"></div>
+
+      </div>
+      <div class="col-md-3">
+      </div>
+    </div>
+  </div>
+
+
+  <script src="js/script.js">  </script>
+  <script>
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://indian-satellite-visualization.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>
+</html>

@@ -1,0 +1,153 @@
+Name,Discipline,COSPAR ID,Launch Mass,Onboard Power,Launch Date,Launch Vehicle,Launch Site,Periapsis,Apoapsis,Period,Inclination,Longitude,Eccentricity
+Aryabhatta,"	Earth Sciences
+		Space Physics[2]",1975-033A,360 kg (790 lb)[2],46 W[3],"19 April 1975,
+13:10:00 IST[4]", Interkosmos-II," Kapustin Yar
+Missile and Space Complex",568 km (353 mi)[4],611 km (380 mi)[4],96.5 mins[4],50.7[4],,0.00308[4]
+"Bhaskara
+Sega-I","	Astronomy
+		Communications
+		Engineering
+		Earth Sciences[5]",1979-051A,444 kg (979 lb)[5],47 W[6],"7 June 1979,
+16:00:00 IST[7]","Modified SS-5
+(SKean IRBM)
+plus Upper Stage[5]"," Kapustin Yar
+Missile and Space Complex",512 km (318 mi)[7],557 km (346 mi)[7],95.2 mins[7],50.7[7],,0.00325[7]
+"Rohini
+Technology
+Payload",		Experimental,,35 kg (77 lb)[8],3 W[8],10 August 1979[8],SLV-3-E1," Satish Dhawan Space Centre,
+Sriharikota, Andhra Pradesh",,,,,,
+Rohini RS-1 (Rohini-1B),	Earth Sciences[10],1980-062A,35 kg (77 lb)[10],16 W[11],"18 July 1980, 8:01:00 IST[12]",SLV-3-E2," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",305 km (190 mi)[12],919 km (571 mi)[12],96.9 mins[12],44.7[12],,0.04389[12]
+Rohini RS-D1 (Rohini-2),	Earth Sciences[13],1981-051A,38 kg (84 lb)[13],16 W[14],"31 May 1981, 10:30:00 IST[15]",SLV-3-D1," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",186 km (116 mi)[15],418 km (260 mi)[15],90.5 mins[15],46.3[15],,0.01735[15]
+APPLE,	Communications[16],1981-057B,"670 kg (1,480 lb)[16]",210 W[17],"19 June 1981, 18:02:59 IST[18]",Ariane-1 (V-3)," Centre Spatial Guyanais, Kourou","35,761.9 km (22,221.4 mi)[19]","35,963 km (22,346 mi)[19]",1439.6 mins[19],13.6[19],97.57 E[19],0.00513[18]
+Bhaskara -II,"	Engineering
+		Earth Sciences[20]",1981-115A,444 kg (979 lb)[20],47 W[21],"20 November 1981, 14:08:00 IST[22]","Modified SS-5
+(SKean IRBM) plus Upper Stage", Kapustin Yar Missile and Space Complex,520 km (320 mi)[22],542 km (337 mi)[22],95.2 mins[22],50.6[22],,0.00159[22]
+INSAT-1A,	Communications[23],1982-031A,"1,152.1 kg (2,540 lb)[23]",,"10 April 1982, 12:17:00 IST[24]",Delta 3910 PAM-D," Air Force Eastern Test Range, Florida","35,837.1 km (22,268.1 mi)[25]","35,903.1 km (22,309.2 mi)[25]",1440 mins[25],13.6[25],40.85 E[25],
+Rohini RS-D2 (Rohini-3),	Earth Sciences[26],1983-033A,41.5 kg (91 lb)[27],16 W[27],"17 April 1983, 11:14:00 IST[28]",SLV-3," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",389 km (242 mi)[28],852 km (529 mi)[28],97.1 mins[28],46.6[28],,0.03306[28]
+INSAT-1B,"	Communications
+		Earth Sciences[29]",1983-089B,"1,152 kg (2,540 lb)[29]",,"1 June 1983, 13:19:00 IST[30]", Shuttle [PAM-D]," Air Force Eastern Test Range, Florida","35,776.2 km (22,230.3 mi)[31]","35,869.6 km (22,288.3 mi)[31]",1437.6 mins[31],14.8[31],89.71 E[31],
+SROSS-1,		Experimental,,150 kg (330 lb)[32],90 W[32],24 March 1987[32],ASLV-D1," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",,,,,,
+IRS-1A,	Earth Sciences[33],1988-021A,"975 kg (2,150 lb)[34]",600 W[34],"17 March 1988, 12:42:00 IST[35]", Vostok," Baikonur Cosmodrome, Kazakhstan",902.3 km (560.7 mi)[36],922.1 km (573.0 mi)[36],103.1 mins[35],99.3[36],,0.00371[35]
+SROSS-2,"		Astronomy
+		Space Physics",,150 kg (330 lb)[37],90 W[37],13 July 1988[37],ASLV-D2," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",,,,,,
+INSAT-1C,"	Communications
+		Earth Sciences[38]",1988-063A,"1,152 kg (2,540 lb)[38]",,"22 July 1988, 4:42:00 IST[39]",Ariane-3," Centre Spatial Guyanais, Kourou","35,768.8 km (22,225.7 mi)[40]","35,821.5 km (22,258.4 mi)[40]",1436.2 mins[40],14.9[39],95.03 E[41],0.00035[39]
+INSAT-1D,"	Communications
+		Earth Sciences[42]",1990-051A,"1,190 kg (2,620 lb)[43]",1000 W[43],"12 June 1990, 11:22:00 IST[44]",Delta 4925," Air Force Eastern Test Range, Florida","35,729.2 km (22,201.1 mi)[46]","35,974 km (22,353 mi)[46]",1435.9 mins[46],14.3[46],71.66 E[46],0.00245[44]
+IRS-1B,	Earth Sciences[47],1991-061A,"975 kg (2,150 lb)[47]",600 W[48],"29 August 1991, 12:18:00 IST[49]", Vostok," Baikonur Cosmodrome, Kazakhstan",892.6 km (554.6 mi)[50],928 km (577 mi)[50],103.1 mins[50],99[50],,0.00385[49]
+"INSAT-2DT
+(Formerly ARABSAT-1C)
+(INSAT-2R)[51]",	Communications[52],1992-010B,"1,310 kg (2,890 lb)[53]",1400 W[52],"27 February 1992, 5:28:10 IST[54]",Ariane-44L H10[43]," Centre Spatial Guyanais, Kourou","36,122.8 km (22,445.7 mi)[51]","36,365.4 km (22,596.4 mi)[51]",1459.2 mins[51],11.6[51],21.41 W[51],0.00385[49]
+SROSS-C (SROSS-3),"	Astronomy
+		Earth Sciences
+		Space Physics[55]",1992-028A,106.1 kg (234 lb)[56],45 W[56],"20 May 1992, 8:30:00 IST[57]",ASLV-D3," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",255 km (158 mi)[57],429 km (267 mi)[57],91 mins[57],46.03[57],,0.01295[57]
+INSAT-2A,"	Communications
+		Earth Sciences[58]",1992-041A,"1,906 kg (4,202 lb)[59]",~ 1000 W[59],"10 July 1992, 4:12:19 IST[60]",Ariane-44L H10," Centre Spatial Guyanais, Kourou","35,783.1 km (22,234.6 mi)[61]","35,846.9 km (22,274.2 mi)[61]",1437.2 mins[61],14.5[61],16.18 E[61],0.00381[60]
+INSAT-2B,"	Communications
+		Earth Sciences[62]",1993-048B,"1,931 kg (4,257 lb)[62]",~ 1000 W[63],"23 July 1993, 4:29:00 IST[64]",Ariane-44L H10+," Centre Spatial Guyanais, Kourou","35,812.9 km (22,253.1 mi)[65]","35,941.2 km (22,332.8 mi)[65]",1440.4 mins[65],13[65],156.74 W[65],
+IRS-1E,	Earth Sciences[66],,"846 kg (1,865 lb)[66]",415 W[66],20 September 1993,PSLV-D1," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",,,,,,
+SROSS-C2,"	Astronomy
+		Space Physics[67]",1994-027A,113 kg (249 lb)[67],45 W[68],"5 May 1994, 5:30:00 IST[69]",ASLV-D4," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",433 km (269 mi)[69],917 km (570 mi)[69],98.1 mins[69],46[69],,0.03431[69]
+IRS-P2,	Earth Sciences[70],1994-068A,"870 kg (1,920 lb)[70]",510 W[71],"15 October 1994, 10:38:00 IST[72]",PSLV-D2," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",819.2 km (509.0 mi)[73],820.8 km (510.0 mi)[73],101.1 mins[73],98.8[73],,0.00533[72]
+INSAT-2C,	Communications[74],1995-067B,"2,050 kg (4,520 lb)[74]",1320 W[75],"7 December 1995, 4:53:00 IST[76]",Ariane-44L H10-3," Centre Spatial Guyanais, Kourou","35,918.4 km (22,318.7 mi)[77]","35,948.5 km (22,337.4 mi)[77]",1443.2 mins[77],12[77],60.57 E[77],
+IRS-1C,	Earth Sciences[78],1995-072A,"1,250 kg (2,760 lb)[78]",809 W[79],"28 December 1995, 12:15:00 IST[80]",Molniya-M[78]," Baikonur Cosmodrome, Kazakhstan",823 km (511 mi)[81],824.9 km (512.6 mi)[81],101.2 mins[80],98.69[79],,0.00014[80]
+IRS-P3 (IRS B3)[82],"	Astronomy
+		Earth Sciences[83]",1996-017A,"930 kg (2,050 lb)[83]",817 W[84],"21 March 1996, 10:03:00 IST[85]",PSLV-D3," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",820.9 km (510.1 mi)[82],827.1 km (513.9 mi)[82],101.2 mins[82],98.7[85],,0.00319[85]
+INSAT-2D,	Communications[86],1997-027B,"2,079 kg (4,583 lb)[86]",1650 W[87],"4 June 1997, 4:50:00 IST[88]",Ariane-44L H10-3," Centre Spatial Guyanais, Kourou","33,225.6 km (20,645.4 mi)[89]","35,917.5 km (22,318.1 mi)[89]",1374.1 mins[89],13.5[89],125.76 E[89],
+IRS-1D,	Earth Sciences[90],1997-057A,"920 kg (2,030 lb)[90]",809 W[91],"29 September 1997, 10:17:00 IST[92]",PSLV-C1[93]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",748.6 km (465.2 mi)[94],823.3 km (511.6 mi)[94],100.4 mins[94],98.4[94],,0.03719[92]
+INSAT-2E (APR-1)[95],"	Communications
+		Earth Sciences[96]",1999-016A,"2,550 kg (5,620 lb)[97]",,"2 April 1999, 8:30:00 IST[98]",Ariane-42P H10-3," Centre Spatial Guyanais, Kourou","35,932.1 km (22,327.2 mi)[95]","36,003.3 km (22,371.4 mi)[95]",1445 mins[95],5.3[95],107.82 E[95],
+OceanSat-1 (IRS-P4),	Earth Sciences[99],1999-029C,"1,050 kg (2,310 lb)[99]",750 W[100],"26 May 1999, 11:52:00 IST[101]",PSLV-C2[102]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",723.9 km (449.8 mi)[103],726.3 km (451.3 mi)[103],99.1 mins[103],98.2[103],,0.00077[101]
+INSAT-3B,	Communications[104],2000-016B,"2,070 kg (4,560 lb)[104]",1712 W[105],"22 March 2000, 4:59:00 IST[106]",Ariane-5G," Centre Spatial Guyanais, Kourou","35,949.3 km (22,337.9 mi)[107]","35,985.9 km (22,360.6 mi)[107]",1445.0 mins[107],4.3[107],107 W[107],
+"GSAT-1
+(GramSat-1)","	Communications
+		Engineering[108]",2001-015A,"1,530 kg (3,370 lb)[109]",,"18 April 2001, 15:43:00 IST[110]",GSLV-D1," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","33,853.1 km (21,035.3 mi)[111]","35,800.5 km (22,245.4 mi)[111]",1387 mins[111],11.2[111],17.37 E[111],0.02261[110]
+TES,	Earth Sciences[112],2001-049A,"1,108 kg (2,443 lb)[112]",,"22 October 2001, 10:03:00 IST[113]",PSLV-C3," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",514.6 km (319.8 mi)[114],570.2 km (354.3 mi)[114],95.3 mins[114],97.7[114],,0.00202[113]
+INSAT-3C,	Communications[115],2002-002A,"2,750 kg (6,060 lb)[115]",2765 W[116],"24 January 2002, 5:17:00 IST[117]",Ariane-42L H10-3," Centre Spatial Guyanais, Kourou","35,786.9 km (22,236.9 mi)[118]","35,800.6 km (22,245.5 mi)[118]",1436.1 mins[118],0.6[118],93.5 E[118],0.00245[117]
+Kalpana-1 (MetSat-1),	Earth Sciences[119],2002-043A,"1,060 kg (2,340 lb)[120]",550 W[119],"12 September 2002, IST",PSLV-C4[121]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,741.2 km (22,208.6 mi)[122]","35,845.9 km (22,273.6 mi)[122]",1436.1 mins[122],6.3[122],74 E[119],
+INSAT-3A,"	Communications
+		Earth Sciences[123]",2003-013A,"2,950 kg (6,500 lb)[124]",3100 W[124],"10 April 2003, 4:22:00 IST[125]",Ariane-5G," Centre Spatial Guyanais, Kourou","35,874.2 km (22,291.2 mi)[126]","35,980.2 km (22,357.1 mi)[126]",1442.9 mins[126],1.2[126],87 E[126],
+"GSAT-2
+(GramSat-2)",	Communications[127],2003-018A,"1,900 kg (4,200 lb)[127]",1400 W[127],"8 May 2003, 16:58:00 IST[128]",GSLV-D2[129]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,892.6 km (22,302.6 mi)[130]","35,936.5 km (22,329.9 mi)[130]",1442.3 mins[130],5[130],199 W[130],
+INSAT-3E,	Communications[131],2003-043E,"2,775 kg (6,118 lb)[132]",,"28 September 2003, 4:44:00 IST[133]",Ariane-5G," Centre Spatial Guyanais, Kourou","35,576.4 km (22,106.2 mi)[134]","35,716.3 km (22,193.1 mi)[134]",1428.6 mins[134],2.5[134],126.83 E[134],
+ResourceSat-1 (IRS-P6),	Earth Sciences[135],2003-046A,"1,360 kg (3,000 lb)[135]",,"17 October 2003, 10:24:00 IST[136]",PSLV-C5[137]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",824.2 km (512.1 mi)[138],829.5 km (515.4 mi)[138],101.3 mins[138],2.5[138],,0.0016[136]
+"GSAT-3
+(EduSat)",	Communications[139],2004-036A,"1,950.5 kg (4,300 lb)[140]",2040 W[140],"20 September 2004, 16:01:00 IST[141]",GSLV-F01[142]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","36,071.1 km (22,413.5 mi)[143]","36,084.4 km (22,421.8 mi)[143]",1450.6 mins[143],5.2[143],158.51 W[143],
+CartoSat-1,	Earth Sciences[144],2005-017A,"1,560 kg (3,440 lb)[144]",1100 W[145],"5 May 2005, 10:14:00 IST[146]",PSLV-C6[147]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",623.2 km (387.2 mi)[148],627.9 km (390.2 mi)[148],97.1 mins[148],97.9[148],,0.00014[146]
+ HamSat,	Communications[149],2005-017B,42.5 kg (94 lb)[149],,,,,592 km (368 mi)[150],626.4 km (389.2 mi)[150],96.7 mins[150],97.7[150],,0.00271[151]
+INSAT-4A,	Communications[152],2005-049A,"3,081 kg (6,792 lb)[153]",5922 W[153],"22 December 2005, 4:03:00 IST[154]",Ariane-5GS," Centre Spatial Guyanais, Kourou","35,789.7 km (22,238.7 mi)[155]","35,798.7 km (22,244.3 mi)[155]",1436.1 mins[155],0.0[155],83 E[155],
+INSAT-4C,	Communications[156],,"2,180 kg (4,810 lb)[157]",,10 July 2006,GSLV-F02[158]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",,,,,,
+"CartoSat-2
+(IRS-P7 or, CartoSat-2AT[159])",	Earth Sciences[160],2007-001B,"680 kg (1,500 lb)[160]",900 W[161],"10 January 2007, 9:27:00 IST[162]",PSLV-C7[163]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",639.1 km (397.1 mi)[159],642.2 km (399.0 mi)[159],97.4 mins[159],97.9[159],,0.00143[162]
+SRE-1,	Engineering[164],2007-001C,"615 kg (1,356 lb)[164]",,,,,486 km (302 mi)[166],643 km (400 mi)[166],95.9 mins[166],97.9[166],,0.01131[166]
+INSAT-4B,	Communications[167],2007-007A,"3,025 kg (6,669 lb)[168]",5859 W[168],"12 March 2007, 3:33:00 IST[169]",Ariane-5ECA," Centre Spatial Guyanais, Kourou","35,761.1 km (22,220.9 mi)[170]","35,827.1 km (22,261.9 mi)[170]",1436.1 mins[170],0.0[170],93.5 E[170],
+INSAT-4CR,	Communications[171],2007-037A,"2,130 kg (4,700 lb)[172]",3000 W[172],"2 September 2007, 18:21:00 IST[173]",GSLV-F04[174]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,780.2 km (22,232.8 mi)[175]","35,806.9 km (22,249.4 mi)[175]",1436.1 mins[175],0.0[175],47.5 E[175],
+CartoSat-2A,	Earth Sciences[176],2008-021A,"690 kg (1,520 lb)[176]",900 W[176],"28 April 2008, 9:24:00 IST[177]",PSLV-C9[178]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",632 km (393 mi)[179],649.2 km (403.4 mi)[179],97.4 mins[179],97.9[179],,
+"IMS-1 (Indian Mini-Satellite-1 or,
+(Third World
+Satellite – TWSat)",	Earth Sciences[180],2008-021D,83 kg (183 lb)[180],220 W[180],,,,614 km (382 mi)[181],629.4 km (391.1 mi)[181],97 mins[181],97.6[181],,
+Chandrayaan-1,	Planetary Sciences[183],2008-052A,"1,380 kg (3,040 lb)[183]",750 W[183],"22 October 2008, 6:22:00 IST[184]",PSLV-C11[185]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","~ 100 km (62 mi) (initial)§[183]
+~ 200 km (120 mi) (final)§[186]","~ 100 km (62 mi) (initial)§[183]
+~ 200 km (120 mi) (final)§[186]",,,,
+RISAT-2,	Earth Sciences[187],2009-019A,300 kg (660 lb)[188],,"20 April 2009, 6:45:00 IST[189]",PSLV-C12," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",470.6 km (292.4 mi)[190],478.5 km (297.3 mi)[190],93.9 mins[190],41.2[190],,
+AnuSat-1,	Communications[191],2009-019B,40 kg (88 lb)[191],,,,,,,90 mins[192],,,
+OceanSat-2,	Earth Sciences[193],2009-051A,"960 kg (2,120 lb)[193]",1360 W[194],"23 September 2009, 11:51:00 IST",PSLV-C14[195]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",728.2 km (452.5 mi)[196],731.9 km (454.8 mi)[196],99.3 mins[196],98.3[196],,
+GSAT-4,	Communications[197],,"2,220 kg (4,890 lb)[197]",,15 April 2010,GSLV-D3," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",,,,,,
+CartoSat-2B,	Earth Sciences[198],2010-035A,"694 kg (1,530 lb)[199]",930 W[199],"12 July 2010, 9:22:00 IST[200]",PSLV-C15[201]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",629.9 km (391.4 mi)[202],651.4 km (404.8 mi)[202],97.4 mins[202],97.9[202],,
+StudSat (STUDent SATellite[203]),	Earth Sciences[203],2010-035B,1 kg (2.2 lb)[203],,,,,605.5 km (376.2 mi)[204],622.7 km (386.9 mi)[204],96.8 mins[204],98.0[204],,
+"GSAT-5P
+(INSAT-4D)",	Communications[205],,"2,310 kg (5,090 lb)[205]",,25 December 2010,GSLV-F06[206]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",,,,,,
+ResourceSat-2,"	Earth Sciences
+		Technology Applications[207]",2011-015A,"1,206 kg (2,659 lb)[207]",1250 W[208],"20 April 2011, 10:12:00 IST[209]",PSLV-C16[210]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",825.2 km (512.8 mi)[211],828.7 km (514.9 mi)[211],101.3 mins[211],98.7[211],,
+"YouthSat
+(IMS-2[212])","	Solar Physics
+		Space Physics[213]",2011-015B,92 kg (203 lb)[212],,,,,808.6 km (502.4 mi)[214],828.2 km (514.6 mi)[214],101.1 mins[214],98.6[214],,
+"GSAT-8 (GramSat-8, or INSAT-4G)",	Communications[215],2011-022A,"3,093 kg (6,819 lb)[216]",6242 W[216],"21 May 2011, 2:08:00 IST[217]",Ariane-5 VA-202," Centre Spatial Guyanais, Kourou","35,781 km (22,233 mi)[218]","35,806.3 km (22,249.0 mi)[218]",1436.1 mins[218],0.0[218],55 E[218],
+GSAT-12 (GramSat-12),	Communications[219],2011-034A,"1,410 kg (3,110 lb)[219]",1430 W[220],"15 July 2011, 16:48:00 IST[221]",PSLV-C17[222]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,761.6 km (22,221.2 mi)[223]","35,825.9 km (22,261.2 mi)[223]",1436.1 mins[223],0.0[223],83 E[223],
+  Megha-Tropiques,	Earth Sciences[224],2011-058A,"1,000 kg (2,200 lb)[225]",1325 W[225],"12 October 2011, 11:00:00 IST[226]",PSLV-C18[227]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",860.5 km (534.7 mi)[228],874.7 km (543.5 mi)[228],102.2 mins[228],20.0[228],,
+Jugnu,"	Earth Sciences
+		Technology Applications[229]",2011-058B,3 kg (6.6 lb)[229],,,,,843.9 km (524.4 mi)[230],871.4 km (541.5 mi)[230],101.9 mins[230],20.0[230],,
+SRMSat,"	Earth Sciences
+		Technology Applications[231]",2011-058D,10.9 kg (24 lb)[231],,,,,855.8 km (531.8 mi)[232],873.2 km (542.6 mi)[232],102.1 mins[232],20.0[232],,
+RISAT-1,	Earth Sciences[233],2012-017A,"1,858 kg (4,096 lb)[233]",2200 W[233],"26 April 2012, 5:47:00 IST[234]",PSLV-C19[235]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",542.2 km (336.9 mi)[236],550 km (340 mi)[236],95.4 mins[236],97.6[236],,
+GSAT-10[237],	Communications[238],2012-051B,"3,400 kg (7,500 lb)[238]",6474 W[239],"28 September 2012, 2:48:00 IST[240]",Ariane-5 VA-209," Centre Spatial Guyanais, Kourou","35,783.3 km (22,234.7 mi)[241]","35,805.4 km (22,248.4 mi)[241]",1436.1 mins[241],0.1[241],83 E[241],
+SARAL[242],	Earth Sciences[243],2013-009A,407 kg (897 lb)[244],906 W[244],"25 February 2013, 18:01:00 IST[245]",PSLV-C20[246]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",791.8 km (492.0 mi)[247],792.6 km (492.5 mi)[247],100.6 mins[247],98.5[247],,
+IRNSS-1A,	Navigation/Global Positioning[248],2013-034A,"1,425 kg (3,142 lb)[249]",1660 W[249],"1 July 2013, 23:41:00 IST[250]",PSLV-C22[251]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,720.2 km (22,195.5 mi)[252]","35,864.3 km (22,285.0 mi)[252]",1436.0 mins[252],28.8[252],55.0 E[252],
+INSAT-3D[253],	Earth Sciences[254],2013-038B,"2,060 kg (4,540 lb)[255]",1164 W[255],"26 July 2013, 1:23:00 IST[256]",Ariane-5," Centre Spatial Guyanais, Kourou","35,794 km (22,241 mi)[257]","35,795.3 km (22,242.2 mi)[257]",1436.1 mins[257],0.0[257],82.0 E[257],
+"GSAT-7
+(INSAT-4F)[258][259]",	Communications[258],2013-044B,"2,650 kg (5,840 lb)[260]",3000 W[260],"30 August 2013, 2:00:00 IST[261]",Ariane-5," Centre Spatial Guyanais, Kourou","35,789.8 km (22,238.8 mi)[259]","35,798.1 km (22,243.9 mi)[259]",1436.1 mins[259],0.0[259],74.0 E[259],
+"Mars Orbiter Mission (MOM)[262]
+(Mangalyaan-1)",	Planetary Science[263],2013-060A,"1,340 kg (2,950 lb)[263]",840 W[264],"5 November 2013, 14:38:00 IST[265]",PSLV-C25[266]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",~ 366 km (227 mi)§ [263],"~ 80,000 km (50,000 mi)§ [263]",4602 mins§ [263],150§ [263],,
+GSAT-14,	Communications[267],2014-001A,"1,982 kg (4,370 lb)[267]",2600 W[268],"5 January 2014, 16:18:00 IST[269]",GSLV Mk.II-D5[270]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,774.5 km (22,229.2 mi)[271]","35,813.6 km (22,253.5 mi)[271]",1436.1 mins[271],0.0[271],74.0 E[271],
+IRNSS-1B,	Navigation/Global Positioning[272],2014-017A,"1,432 kg (3,157 lb)[273]",1660 W[272],"4 April 2014, 17:14:00 IST[274]",PSLV-C24[275]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,700.5 km (22,183.3 mi)[276]","35,883.1 km (22,296.7 mi)[276]",1436.0 mins[276],29.1[276],55.0 E[276],
+IRNSS-1C,	Navigation/Global Positioning[277],2014-061A,"1,425.4 kg (3,142 lb)[278]",1660 W[278],16 October 2014[278],PSLV-C26[279]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,715.5 km (22,192.6 mi)[280]","35,872.6 km (22,290.2 mi)[280]",1436.1 mins[280],3[280],83 E[280],
+GSAT-16,	Communications[281],2014-078A,"3,181.6 kg (7,014 lb)[282]",6000 W[282],"7 December 2014, 2:10:00 IST[283]",Ariane-5," Centre Spatial Guyanais, Kourou","35,762.5 km (22,221.8 mi)[284]","35,824.7 km (22,260.4 mi)[284]",1436.1 mins[284],0.1[284],55.0 E[284],
+IRNSS-1D,	Navigation/Global Positioning[285],2015-018A,"1,425 kg (3,142 lb)[286]",1660 W[285],"28 March 2015, 17:19:00 IST[287]",PSLV-C27," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,704.7 km (22,185.9 mi)[288]","35,885.0 km (22,297.9 mi)[288]",1436.2 mins[288],29.1[288],112 E[288],
+"GSAT-6
+(INSAT-4E)[289]",	Communications[289],2015-041A,"2,117 kg (4,667 lb)[290]",3100 W[289],"27 August 2015, 16:52:00 IST[291]",GSLV Mk.II-D6[292]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,769.6 km (22,226.2 mi)[293]","35,818.4 km (22,256.5 mi)[293]",1436.1 mins[293],0.0[293],83 E[293],
+Astrosat[294],	Space Sciences[295],2015-052A,"1,513 kg (3,336 lb)[295]",,28 September 2015,PSLV-C30," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",642.5 km (399.2 mi)[296],655 km (407 mi)[296],97.6 mins[296],6.0[296],,
+GSAT-15,	Communications[297],2015-065A,"3,164 kg (6,975 lb)[298]",6200 W[298],"11 November 2015, 3:04:00 IST[299]",Ariane 5 VA-227," Centre Spatial Guyanais, Kourou","35,785.66 km (22,236.18 mi)[300]","35,802.6 km (22,246.7 mi)[300]",1436.1 mins[300],0.1[300],93.5 E[300],
+IRNSS-1E,	Navigation/Global Positioning[301],2016-003A,"1,425 kg (3,142 lb)[302]",1660 W[303],"20 January 2016, 9:31:00 IST[304]",PSLV-C31[305]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,709.6 km (22,188.9 mi)[306]","35,875.2 km (22,291.8 mi)[306]",1436.0 mins[306],28.8[306],111.75 E[306],
+IRNSS-1F,	Navigation/Global Positioning[307],2016-015A,"1,425 kg (3,142 lb)[307]",1660 W[308],"10 March 2016, 16:01:00 IST[309]",PSLV-C32[310]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,700.8 km (22,183.4 mi)[312]","35,889.2 km (22,300.5 mi)[312]",1436.2 mins[312],4.1[312],32.5 E[312],
+IRNSS-1G,	Navigation/Global Positioning[313],2016-027A,"1,425 kg (3,142 lb)[314]",1660 W[315],"28 April 2016, 12:59 IST[316]",PSLV-C33[317]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,778.6 km (22,231.8 mi)[318]","35,808.7 km (22,250.5 mi)[318]",1436.1 mins[318],4.2[318],129 E[318],
+Cartosat-2C,	Earth Sciences[319],2016-040A,"737.5 kg (1,626 lb)[320]",986 W[320],"22 June 2016, 9:26:00 IST[321]",PSLV-C34[322]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",504.7 km (313.6 mi)[323],526.1 km (326.9 mi)[323],94.8 mins[323],97.5[323],,
+SathyabamaSat,	Technology Applications[324],2016-040B,1.5 kg (3.3 lb)[324],,,,,499.2 km (310.2 mi)[325],521.8 km (324.2 mi)[325],94.7 mins[325],97.5[325],,
+Swayam-1,"	Communications
+		Technology Applications[326]",2016-040J,1 kg (2.2 lb)[327],,,,,499.7 km (310.5 mi)[328],521.5 km (324.0 mi)[328],94.7 mins[328],97.5[328],,
+INSAT-3DR,	Earth Sciences[330],2016-054A,"2,211 kg (4,874 lb)[330]",1700 W[331],"8 September 2016, 16:40:00 IST[332]",GSLV-F05[333]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,767.2 km (22,224.7 mi)[334]","35,820.6 km (22,257.9 mi)[334]",1436.1 mins[334],0.0[334],74.0 E[334],
+Pratham,	Technology Applications[335],2016-059A,10 kg (22 lb)[335],,"26 September 2016, 9:12:00 IST[336]",PSLV-C35[337]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",666.8 km (414.3 mi)[338],715.6 km (444.7 mi)[338],98.4 mins[338],98.2[338],,
+PISat,	Technology Applications[339],2016-059B,5.25 kg (11.6 lb)[339],,,,,666.6 km (414.2 mi)[340],713.2 km (443.2 mi)[340],98.4 mins[340],98.2[340],,
+ScatSat-1,	Earth Sciences[341],2016-059H,377 kg (831 lb)[341],,,,,723.6 km (449.6 mi)[342],741.2 km (460.6 mi)[342],99.3 mins[342],98.1[342],,
+GSAT-18,	Communications[343],2016-060A,"3,425 kg (7,551 lb)[343]",6474 W[344],"6 October 2016, 2:00:00 IST[345]",Ariane-5 ECA," Centre Spatial Guyanais, Kourou","35,760.2 km (22,220.4 mi)[347]","35,827.7 km (22,262.3 mi)[347]",1436.1 mins[347],0.1[347],74.0 E[347],
+ResourceSat-2A,	Earth Sciences[348],2016-074A,"1,235 kg (2,723 lb)[348]",,"7 December 2016, 10:24:00 IST[349]",PSLV-C36[350]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",826.3 km (513.4 mi)[351],827.6 km (514.2 mi)[351],101.3 mins[351],98.7[351],,
+CartoSat-2D,	Earth Sciences[352],2017-008A,"714 kg (1,574 lb)[353]",,"15 February 2017, 9:28:00 IST[354]",PSLV-C37[355]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",510.9 km (317.5 mi)[356],519.9 km (323.1 mi)[356],94.8 mins[356],97.5[356],,
+"INS-1A[357]
+(ISRO Nano-Satellite 1A)[358]",	Technology Applications[358],2017-008B,8.4 kg (19 lb)[359],,,,,500.8 km (311.2 mi)[360],515.4 km (320.3 mi)[360],94.6 mins[360],97.5[360],,
+"INS-1B[357]
+(ISRO Nano-Satellite 1B)[361]",	Technology Applications[361],2017-008G,9.7 kg (21 lb)[362],,,,,500.7 km (311.1 mi)[363],514.8 km (319.9 mi)[363],94.6 mins[363],97.5[363],,
+South Asia Satellite (GSAT-9),	Communications[364],2017-024A,"2,230 kg (4,920 lb)[364]",3500 W[365],"5 May 2017, 16:57:00 IST[366]",GSLV Mk.II[367]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,782.2 km (22,234.0 mi)[368]","35,805.8 km (22,248.7 mi)[368]",1436.1 mins[368],0.1[368],97.5 E[368],
+"GSAT-19
+(GSAT-19E)",	Communications[369],2017-031A,"3,136 kg (6,914 lb)[370]",4500 W[371],"5 June 2017, 5:28:00 IST[372]",GSLV Mk.III-D1[373]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh","35,781.1 km (22,233.3 mi)[374]","35,806.7 km (22,249.3 mi)[374]",1436.1 mins[374],0.1[374],82.5 E[374],
+NIUSat[375],	Technology Applications[376],2017-036B,15 kg (33 lb)[376],40 W[377],"23 June 2017, 9:29:00 IST[378]",PSLV-C38[379]," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",502.5 km (312.2 mi)[380],526.7 km (327.3 mi)[380],94.8 mins[380],97.4[380],,
+CartoSat-2E,	Earth Sciences[381],2017-036C,"712 kg (1,570 lb)[381]",986 W[377],,,,508.4 km (315.9 mi)[382],522.2 km (324.5 mi)[382],94.8 mins[382],97.4[382],,
+GSAT-17,	Communications[383],2017-040B,"3,477 kg (7,665 lb)[384]",6200 W[385],"29 June 2017, 2:45:00 IST[386]",Ariane-5 ECA," Centre Spatial Guyanais, Kourou","35,771 km (22,227 mi)[387]","35,817 km (22,256 mi)[387]",1436.1 mins[387],0.1[387],93.5 E[387],

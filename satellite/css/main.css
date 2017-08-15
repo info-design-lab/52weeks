@@ -1,0 +1,75 @@
+body, html{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: black;
+  color: white;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.axis{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+svg{
+    cursor: default;
+    overflow-y: hidden;
+}
+
+form{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+  color: white;
+  background: black;
+}
+
+/* Place the radio button and its labels in the same line */
+input[type="radio"] {
+  display: inline;
+  margin-bottom: 0px; }
+label > .label-body {
+  margin-left: .5rem;
+  font-weight: normal;
+}
+
+label{
+  font-weight: normal;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+
+.d3-tip {
+  line-height: 1;
+  font-weight: normal;
+  padding: 12px;
+  background: #fff;
+  color: rgba(0, 0, 0, 0.8);
+  border-radius: 3px;
+  width: 300px;
+}
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+#footer{
+  background-image: url("images/Earth.jpg");
+   background-size:cover;
+}
