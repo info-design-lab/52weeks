@@ -1,4 +1,4 @@
-Name,Launch Vehicle,Launch Site,Launch Date,Discipline,Launch Mass(kg),Onboard Power(W),Periapsis(km),Apoapsis(km),Period(min),Inclination(degrees),Longitude(E),Eccentricity
+Name,Launch Vehicle,Launch Site,Launch Date,Discipline,Launch Mass (kg),Onboard Power (W),Periapsis (km),Apoapsis (km),Period (min),Inclination (degrees),Longitude (E),Eccentricity
 Aryabhatta, Interkosmos-II, Kapustin Yar Missile and Space Complex,19 April 1975,"Earth Sciences, Space Physics",360,46,568,611,96.5,50.7,,0.00308
 Bhaskara Sega-I,Modified SS-5 (SKean IRBM) plus Upper Stage, Kapustin Yar Missile and Space Complex,7 June 1979,"Astronomy, Communications, Engineering, Earth Sciences",444,47,512,557,95.2,50.7,,0.00325
 Rohini Technology Payload,SLV-3-E1," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",10 August 1979,Experimental,35,3,,,,,,
@@ -49,7 +49,7 @@ INSAT-4B,Ariane-5ECA," Centre Spatial Guyanais, Kourou",12 March 2007,Communicat
 INSAT-4CR,GSLV-F04," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",2 September 2007,Communications,2130,3000,35780.2,35806.9,1436.1,0.0,47.5,
 CartoSat-2A,PSLV-C9," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",28 April 2008,Earth Sciences,690,900,632,649.2,97.4,97.9,,
 "IMS-1 (Indian Mini-Satellite-1 or, (Third World Satellite – TWSat)",,,,Earth Sciences,83,220,614,629.4,97,97.6,,
-Chandrayaan-1,PSLV-C11," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",22 October 2008,Planetary Sciences,1380,750,"100  
+Chandrayaan-1,PSLV-C11," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",22 October 2008,Planetary Sciences,1380,750,"100 
  200",100,,,,
 RISAT-2,PSLV-C12," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",20 April 2009,Earth Sciences,300,,470.6,478.5,93.9,41.2,,
 AnuSat-1,,,,Communications,40,,,,90,,,

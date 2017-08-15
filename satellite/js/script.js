@@ -48,7 +48,7 @@ var valueline = d3.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.close); });
 
-var selected_value = 'Launch Mass(kg)'
+var selected_value = 'Launch Mass (kg)'
 var all_data, scatter, y_axis;
 
 function make(error, data){
@@ -57,13 +57,13 @@ function make(error, data){
   all_data = data;
   // format the data
   data.forEach(function(d) {
-      d['Launch Mass(kg)'] = +d['Launch Mass(kg)'];
-      d['Onboard Power(W)'] = +d['Onboard Power(W)'];
-      d['Periapsis(km)'] = +d['Periapsis(km)'];
-      d['Apoapsis(km)'] = +d['Apoapsis(km)'];
-      d['Period(min)'] = +d['Period(min)'];
-      d['Inclination(degrees)'] = +d['Inclination(degrees)'];
-      d['Longitude(E)'] = +d['Longitude(E)'];
+      d['Launch Mass (kg)'] = +d['Launch Mass (kg)'];
+      d['Onboard Power (W)'] = +d['Onboard Power (W)'];
+      d['Periapsis (km)'] = +d['Periapsis (km)'];
+      d['Apoapsis (km)'] = +d['Apoapsis (km)'];
+      d['Period (min)'] = +d['Period (min)'];
+      d['Inclination (degrees)'] = +d['Inclination (degrees)'];
+      d['Longitude (E)'] = +d['Longitude (E)'];
       d['Eccentricity'] = +d['Eccentricity'];
       d['Launch Date'] = parseTime(d['Launch Date'])
   });
@@ -147,7 +147,7 @@ function updateviz(option){
 }
 
 function animate_viz(){
-    if (selected_value == 'Longitude(E)'){
+    if (selected_value == 'Longitude (E)'){
       y.domain(d3.extent(all_data, function(d) { return d[selected_value]; }));
 
     }
