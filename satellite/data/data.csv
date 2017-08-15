@@ -1,4 +1,4 @@
-Name,Launch Vehicle,Launch Site,Launch Date,Discipline,Launch Mass (kg),Onboard Power (W),Periapsis (km),Apoapsis (km),Period (min),Inclination (degrees),Longitude (E),Eccentricity
+Name,Launch Vehicle,Launch Site,Launch Date,Discipline,Launch Mass (kg),Onboard Power (W),Periapsis (km),Apoapsis (km),Period (min),Inclination (degrees),Longitude (degrees),Eccentricity
 Aryabhatta, Interkosmos-II, Kapustin Yar Missile and Space Complex,19 April 1975,"Earth Sciences, Space Physics",360,46,568,611,96.5,50.7,,0.00308
 Bhaskara Sega-I,Modified SS-5 (SKean IRBM) plus Upper Stage, Kapustin Yar Missile and Space Complex,7 June 1979,"Astronomy, Communications, Engineering, Earth Sciences",444,47,512,557,95.2,50.7,,0.00325
 Rohini Technology Payload,SLV-3-E1," Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",10 August 1979,Experimental,35,3,,,,,,

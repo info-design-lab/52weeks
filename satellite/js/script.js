@@ -63,7 +63,7 @@ function make(error, data){
       d['Apoapsis (km)'] = +d['Apoapsis (km)'];
       d['Period (min)'] = +d['Period (min)'];
       d['Inclination (degrees)'] = +d['Inclination (degrees)'];
-      d['Longitude (E)'] = +d['Longitude (E)'];
+      d['Longitude (degrees)'] = +d['Longitude (degrees)'];
       d['Eccentricity'] = +d['Eccentricity'];
       d['Launch Date'] = parseTime(d['Launch Date'])
   });
@@ -147,7 +147,7 @@ function updateviz(option){
 }
 
 function animate_viz(){
-    if (selected_value == 'Longitude (E)'){
+    if (selected_value == 'Longitude (degrees)'){
       y.domain(d3.extent(all_data, function(d) { return d[selected_value]; }));
 
     }
