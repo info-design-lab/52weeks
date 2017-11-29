@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- India State Map  -->
+    <title>Movies Revenue Analysis (1900-2017)</title>
+
+    <!--  Scripts  -->
+    <script type="text/javascript" src="scripts/d3.v4.js"></script>
+    <script src="scripts/queue.js"></script>
+    <script type="text/javascript" src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/bootstrap/bootstrap.min.js"></script>
+    <link href="scripts/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+  </head>
+
+<body>
+  <div class="section">
+    <div class='row'>
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <div class='row' class="footer">
+            <h2><b>Movies Revenue Analysis (1900-2017)</b></h2>
+            <h4>Arihant Parsoya</h4>
+            <p>
+              There are ~45000 movies released between 1900 and 2017. This visualization explores how the revenue of movies relate with their runtime, budget, rating and popularity
+            </p>
+        </div>
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class='row'>
+      <div id="budget_scatter">          </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="row">
+      <div class="col-md-1">
+      </div>
+      <div class="col-md-1">
+        <button class="button selected" id='button-budget'>Budget</button>
+      </div>
+      <div class="col-md-1">
+        <button class="button" id='button-runtime'>Runtime</button>
+      </div>
+      <div class="col-md-1">
+        <button class="button" id='button-vote_average'>Rating</button>
+      </div>
+      <div class="col-md-1">
+        <button class="button" id='button-popularity'>Popularity</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <h3>About the data</h3>
+        <p>
+          This visualization is created using data obtained from <a href='https://www.kaggle.com/rounakbanik/the-movies-dataset'>Kaggle</a>. The data corresponds to movie profiles in <a href="https://www.themoviedb.org/?language=en">The Movie Database (TMDb)</a>.
+          <br />
+          Due to high humber of movies released since 1900, we are only chosing movies whose
+            <ul>
+              <li>
+                Runtime is less than 200 minutes
+              </li>
+              <li>
+                Rating is more than 6.5
+              </li>
+            </ul>
+            Since a movie can have multiple genre, we have only considered one distinguishing genre for a movie. Those are: Action, Drama, Comedy, Horror, Animation and Documentary.
+        </p>
+        <p>
+          <b>Created at:</b>   <a href="https://info-design-lab.github.io">Information Design Lab IDC IIT Bombay</a>
+        </p>
+        <p>
+          <b>Published on:</b> 24 November 2017
+        </p>
+        <div id="disqus_thread"></div>
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+  </div>
+  <script src="js/budget_revenue.js">  </script>
+  <script>
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://movies-revenue-analysis.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <script id="dsq-count-scr" src="//movies-revenue-analysis.disqus.com/count.js" async></script>
+</body>
+</html>
