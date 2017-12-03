@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- India State Map  -->
+    <title>Indian Railway Time Table</title>
+
+    <!--  Scripts  -->
+    <script type="text/javascript" src="scripts/d3.v4.js"></script>
+    <script src="scripts/queue.js"></script>
+    <script type="text/javascript" src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/select2.min.js"></script>
+    <script src="scripts/bootstrap/bootstrap.min.js"></script>
+    <link href="scripts/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+  </head>
+
+<body>
+  <div class="section">
+    <div class='row'>
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <div class='row' class="footer">
+            <h2><b>Indian Railway Time Table</b></h2>
+            <h4>Arihant Parsoya</h4>
+            <p>
+              There are >1800 trains running across India. Here is the visualization which can be used to analyse the train time table. Complete explanation of the visualization can be found <a href="https://medium.com/@udayanvidyanta/visualising-the-trains-between-howrah-jn-and-mumbai-cst-eacd973948d5">here</a>.
+            </p>
+            <br />
+
+            <b>MUMBAI CST</b> &nbsp; to &nbsp;
+            <select class="selection-box">
+              <option value="HOWRAH JN">HOWRAH JN</option>
+              <option value="PUNE JN">PUNE JN</option>
+              <option value="BANGALORE CANT">BANGALORE CANT </option>
+              <option value="HYDERABAD DECAN">HYDERABAD DECAN</option>
+            </select>
+        </div>
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class='row'>
+      <div id="chart">          </div>
+    </div>
+  </div>
+
+
+  <div class="section">
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <h3>About the data</h3>
+        <p>
+          This visualization is created using data obtained from <a href='https://data.gov.in/catalog/indian-railways-train-time-table-0'>data.gov.in</a>.
+          <br />
+        </p>
+        <p>
+          <b>Created at:</b>   <a href="https://info-design-lab.github.io">Information Design Lab IDC IIT Bombay</a>
+        </p>
+        <p>
+          <b>Published on:</b> 3 December 2017
+        </p>
+        <div id="disqus_thread"></div>
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+  </div>
+  <script src="js/script.js">  </script>
+  <script>
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://indian-railways-time-table.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>
+</html>
