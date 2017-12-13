@@ -227,8 +227,9 @@ function make_chart(error, data){
                 .append('g')
             d.append('text')
                 .attr('x', 2)
-                .attr('y', 2)
+                .attr('y', 0)
                 .attr('alignment-baseline', 'hanging')
+                .attr('dominant-baseline', 'hanging')
                 .attr('font-size', text_height)
                 .attr('fill', 'black')
                 .text(dimensions[i])
@@ -268,6 +269,7 @@ function make_chart(error, data){
                     }
                   })
                   .attr('alignment-baseline', 'hanging')
+                  .attr('dominant-baseline', 'hanging')
                   .text(j);
 
                 field_data[dimensions[i]][j]['Color'] = colors[d1%10];
