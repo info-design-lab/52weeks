@@ -1,0 +1,72 @@
+body, html{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: normal;
+  padding: 5px;
+  background: #0000;
+  color: rgba(0, 0, 0, 0.8);
+  border-radius: 3px;
+  width: 250px;
+  border-color: red;
+}
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+[draggable] {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  /* Required to make elements draggable in old WebKit */
+  -khtml-user-drag: element;
+  -webkit-user-drag: element;
+}
+
+#columns {
+  list-style-type: none;
+}
+
+.column {
+  text-align: left;
+  cursor: move;
+}
+
+.column header{
+  color: black;
+  background-color: #ccc;
+  border-bottom: 1px solid #ddd;
+  border-radius: 0px;
+}
+
+.column.dragElem {
+  opacity: 1;
+  font-weight: bold;
+}
+
+.column.over {
+  //border: 2px dashed #000;
+  border-top: 2px solid #151515;
+}
+
+#columns{
+  margin-top: 10px;
+}
+
+.column{
+  margin: 0px;
+  padding: 0px;
+}
+
+#sortable{
+  list-style-type: none;
+}
