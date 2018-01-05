@@ -1,0 +1,37 @@
+body, html{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.8);
+  border-radius: 3px;
+  border-color: red;
+  position: absolute;
+  z-index: 10px;
+  visibility: hidden;
+  background: white;
+  font-size: 15px;
+  font-weight: normal;
+  fill: #808080;
+  border-radius: 3px;
+  border-style: bold;
+  border-width: 2px;
+  border-color: #1a1a1a;
+  width: auto;
+}
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+path {
+	fill: none;
+  stroke: none;
+}
